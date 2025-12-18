@@ -18,7 +18,7 @@ app.use('/api/reports', reportRoutes);
 
 // Health check
 app.get('/', (req, res) => {
-  res.json({ message: 'NCPS API is running' });
+  res.json({ message: 'Parking System API is running' });
 });
 
 const PORT = process.env.PORT || 3000;

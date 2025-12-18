@@ -22,7 +22,7 @@ It provides features for:
 ## Tech Stack
 
 - **Runtime:** Node.js (Express)
-- **Database:** MySQL (`ncps` database)
+- **Database:** MySQL (`parking_system` database)
 - **Auth:** JSON Web Tokens (JWT) with role-based access control
 - **Environment:** `.env` configuration via `dotenv`
 
@@ -147,6 +147,6 @@ Returns all parking records for vehicles owned by the logged-in driver, includin
 
 ## THIS SYSTEM WAS DEVELOPED BY
 
-# NTSINZI FRANCOIS KIBASHA
+# vincenttwizere
 
 _All rights reserved._
